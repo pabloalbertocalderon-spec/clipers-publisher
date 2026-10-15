@@ -1,0 +1,13 @@
+title: Clipers Publisher
+description: Prepare, review and schedule short-form video clips.
+theme: jekyll-theme-minimal
+url: https://pabloalbertocalderon-spec.github.io
+baseurl: /clipers-publisher
+show_downloads: false
+exclude:
+  - REVISAR_ANTES_DE_PUBLICAR.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
